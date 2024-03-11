@@ -1,0 +1,7 @@
+nambah baru
+git hub add .
+git hub commit -m "perubahan ke..."
+git push
+
+teman perubahan 
+git pull
